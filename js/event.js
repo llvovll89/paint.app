@@ -7,7 +7,7 @@ const clear = document.getElementById('jsClear');
 const saveBtn = document.getElementById('jsSave');
 
 const INITIAL_COLOR = "#2c2c2c";
-const CANVAS_SIZE = 500;
+const CANVAS_SIZE = 700;
 
 // css canvas 사이즈에 맞게
 canvas.width = CANVAS_SIZE;
