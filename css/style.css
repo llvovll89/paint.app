@@ -10,8 +10,8 @@ body {
 }
 
 .canvas {
-    width: 500px;
-    height: 500px;
+    width: 700px;
+    height: 700px;
     background: white;
     border-radius: 15px;
     box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(50, 50, 93, 0.11);
@@ -54,6 +54,7 @@ body {
 }
 
 .controls__colors .controls__color {
+    margin: 0 2px;
     width: 50px;
     height: 50px;
     border-radius: 25px; /* width / 2 만큼 주면 동그라미 */
@@ -66,6 +67,7 @@ body {
     margin-bottom: 20px;
 }
 
+/*
 @media (min-width:480px) and (max-width:700px){
     body {
         padding: 40px 0;
@@ -100,4 +102,4 @@ body {
         cursor: pointer;
         box-shadow: 0 5px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(50, 50, 93, 0.11);
     }
-}
+} */
