@@ -1,2 +1,4 @@
-# 노마드코더 페인트 앱 클론코딩
-nomarde coder Clone coding
+## 그림판 JS
+
+캔버스를 이용한 그림판 JS
+
